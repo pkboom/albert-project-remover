@@ -1,4 +1,4 @@
-# Project remover
+# Remove a project
 
 # Add a directory
 
