@@ -17,7 +17,7 @@ _dirs = [
 ]
 
 def handleQuery(query):
-    if not query.isTriggered or not query.isValid or not query.string:
+    if not query.isTriggered or not query.isValid:
         return
 
     projects = []
